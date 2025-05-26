@@ -1,0 +1,8 @@
+gym==0.26.2
+holidays==0.68
+matplotlib==3.10.3
+numpy==2.2.6
+pandas==2.2.3
+pytz==2024.1
+Requests==2.32.3
+torch==2.6.0+cu118
